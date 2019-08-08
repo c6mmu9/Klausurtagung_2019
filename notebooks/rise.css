@@ -1,0 +1,14 @@
+/* this goes with my global default setting
+ * that has rise use reveal's theme sky
+ */
+div.logo {
+    position: absolute;
+    margin: 0px;
+    right: 0%;
+    height: 120px;
+}
+
+/*table settings*/
+/*th, td {
+  	font-size: 150%;
+}*/
