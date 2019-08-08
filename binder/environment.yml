@@ -2,6 +2,7 @@ channels:
   - conda-forge
   - r
   - genepattern
+  - gurobi
 dependencies:
   - matplotlib
   - seaborn
@@ -13,6 +14,7 @@ dependencies:
   - jupyter-wysiwyg
   - r-irkernel
   - r-tidyverse
+  - gurobi
   - pip
   - pip:
       - julia
