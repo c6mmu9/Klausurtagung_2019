@@ -1,3 +1,2 @@
-wget https://packages.gurobi.com/8.1/gurobi8.1.1_linux64.tar.gz &&  tar -zxvf gurobi8.1.1_linux64.tar.gz && export GUROBI_HOME="/home/jovyan/gurobi811/linux64"
 jupyter nbextension enable toc2/main
 jupyter nbextension enable splitcell/splitcell
